@@ -1,0 +1,16 @@
+Carl
+Justify the paragraph = Thanks for watching.
+Align to the center = "Full Stack"
+
+In a single column, Make the picture on top of the content = "Full stack".
+In a single column, Make the content = "Full stack" on top of the picture.
+In a single column, Make the picture on top of the content = "Full stack" using order property.
+In a two column, Move the left content="Full stack" to the right using flexbox property.
+
+
+
+
+
+
+
+
